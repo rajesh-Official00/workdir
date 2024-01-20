@@ -6,9 +6,13 @@
   cvsid="87c790359"
   nt=10, it1=1, dsnap=50
 /
+&eos_run_pars
+/
 &hydro_run_pars
 /
 &density_run_pars
+/
+&viscosity_run_pars
 /
 &forcing_run_pars
 /
