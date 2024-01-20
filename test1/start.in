@@ -3,7 +3,7 @@
 !  Initialisation parameters
 !
 &init_pars
-  cvsid='$Id:$',
+  cvsid="87c790359"
 /
 &hydro_init_pars
 /

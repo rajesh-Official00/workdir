@@ -3,7 +3,7 @@
 !  Run parameters
 !
 &run_pars
-  cvsid='$Id:$',
+  cvsid="87c790359"
   nt=10, it1=1, dsnap=50
 /
 &hydro_run_pars

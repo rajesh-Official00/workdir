@@ -1,0 +1,11 @@
+Revision: 87c790359
+ M python/tutorials/visualize/video_from_var_files.ipynb
+ D samples/Pencil-EULAG/SDB_sun_tines.f
+ D samples/Pencil-EULAG/SSM_EuPen_coup.f
+ D samples/Pencil-EULAG/bin
+ D samples/Pencil-EULAG/utils
+ M samples/most-modules/run.in
+ M samples/most-modules/start.in
+ M samples/no-modules/run.in
+ M samples/no-modules/start.in
+ M src/Makefile
