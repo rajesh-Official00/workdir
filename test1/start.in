@@ -1,0 +1,21 @@
+!                           -*-f90-*-     (for Emacs)
+!
+!  Initialisation parameters
+!
+&init_pars
+  cvsid='$Id:$',
+/
+&hydro_init_pars
+/
+&density_init_pars
+/
+&grav_init_pars
+/
+&entropy_init_pars
+/
+&magnetic_init_pars
+/
+&pscalar_init_pars
+/
+&shear_init_pars
+/

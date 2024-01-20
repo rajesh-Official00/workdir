@@ -1,0 +1,24 @@
+!                           -*-f90-*-     (for Emacs)
+!
+!  Run parameters
+!
+&run_pars
+  cvsid='$Id:$',
+  nt=10, it1=1, dsnap=50
+/
+&hydro_run_pars
+/
+&density_run_pars
+/
+&forcing_run_pars
+/
+&grav_run_pars
+/
+&entropy_run_pars
+/
+&magnetic_run_pars
+/
+&pscalar_run_pars
+/
+&shear_run_pars
+/
