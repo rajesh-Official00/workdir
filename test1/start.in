@@ -5,6 +5,8 @@
 &init_pars
   cvsid="87c790359"
 /
+&eos_init_pars
+/
 &hydro_init_pars
 /
 &density_init_pars
