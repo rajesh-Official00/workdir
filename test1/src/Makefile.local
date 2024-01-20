@@ -1,0 +1,6 @@
+MPICOMM  = nompicomm
+EOS      =   eos_idealgas
+HYDRO    =   hydro
+DENSITY  =   density
+ENTROPY  = noentropy
+GRAVITY  = nogravity
