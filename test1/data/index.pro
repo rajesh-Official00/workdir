@@ -3,3 +3,15 @@
  iuy=2
  iuz=3
  ilnrho=4
+ nname=5
+ nnamev=0
+ nnamex=-1
+ nnamey=-1
+ nnamez=-1
+ nnamer=0
+ nnamexy=-1
+ nnamexz=-1
+ nnamerz=-1
+ nname_sound=0
+ ncoords_sound=0
+ irho=0
